@@ -1,2 +1,3 @@
-# coord
-An ambitious take on coordinating LLM daemons
+# Coord
+
+Something is brewing
